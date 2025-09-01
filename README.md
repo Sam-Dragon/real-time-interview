@@ -7,7 +7,7 @@
 > Round - 1
 
 - compute engine vs app engine ?
-- docker vs VM ? explain in detail
+- docker vs VM ? explain in detail ?
 - docker deamon vs docker client?
 - shallow copy vs deep copy ?
 - how deep copy works in nested objects ?
@@ -18,4 +18,19 @@
 - how spring-data jpa is different from jpa and hibernate?  
 - does spring-data jpa uses hibernate internally?
 - how many tables do you need for many to many relationship?
+</details>
+
+<details> 
+<summary>Verint</summary>
+<br>
+
+> Round - 1
+- what is CQRS pattern ?
+- redis cache usage ?
+- completeble future and its methods ?
+- spring-data starter required ?
+- spring entity life cycle ? **
+- Loan Delivery System: Design a Loan Origination Platform using OOPs concepts - Factory for Loan Type, Strategy for Interest Calculation, Observer for Notifications.
+- Interface based implmentation
+
 </details>
