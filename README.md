@@ -6,7 +6,7 @@
 
 > Round - 1
 
-- compute engine vs app engine ?
+- compute engine vs app engine in gcp?
 - docker vs VM ? explain in detail ?
 - docker deamon vs docker client?
 - shallow copy vs deep copy ?
