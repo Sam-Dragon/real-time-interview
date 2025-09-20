@@ -18,6 +18,25 @@
 - how spring-data jpa is different from jpa and hibernate?  
 - does spring-data jpa uses hibernate internally?
 - how many tables do you need for many to many relationship?
+
+> Round - 2
+- Why java-8 is functional programming ?
+- what are Method References ? 
+- ** Explaing setter based vs constructor based injection, use case with example ?
+- ** In case there are two beans needs to be initialized, A and B, if A is not initialized and B wants to access,
+  How can you initialize Bean A --> SETTER BASED, ANY OTHER WAYS
+- How to create custom endpoint for actuator and how to count exceptions ?
+- Tell me all the Microservices Patterns ?
+- How to implement fault tolerance in mircoservices ?
+- What are non-functional requirements in microservices ?
+- How to secure mircoservices ?
+- How to achieve fault tolerance without using spring-boot ?
+- How to create image using docker ?
+- What are the commands used inside Dockerfile ?
+- Auto-scaling in gcp or kubernetes ?
+- Alternative to saga patterns ?
+- Consistency level in saga patterns ?
+
 </details>
 
 <details> 
