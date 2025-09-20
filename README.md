@@ -18,7 +18,7 @@
 - how spring-data jpa is different from jpa and hibernate?  
 - does spring-data jpa uses hibernate internally?
 - how many tables do you need for many to many relationship?
-- Explain Authentication & Authorization ? How to achieve it ?
+
 
 > Round - 2
 - Why java-8 is functional programming ?
@@ -37,6 +37,7 @@
 - Auto-scaling in gcp or kubernetes ?
 - Alternative to saga patterns ?
 - Consistency level in saga patterns ?
+- Explain Authentication & Authorization ? How to achieve it ?
 
 </details>
 
