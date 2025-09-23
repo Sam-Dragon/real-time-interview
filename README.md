@@ -21,8 +21,9 @@
 
 > Round - 2
 - Why java-8 is functional programming ?
-- what are Method References ? 
-- ** Explaing setter based vs constructor based injection, use case with example ?
+- What are Method References ?
+- What is different in terms of memory model in java-17 ? which GC is used ?
+- ** Explain setter based vs constructor based injection, use case with example ?
 - ** In case there are two beans needs to be initialized, A and B, if A is not initialized and B wants to access,
   How can you initialize Bean A --> SETTER BASED, ANY OTHER WAYS
 - How to create custom endpoint for actuator and how to count exceptions ?
@@ -38,7 +39,6 @@
 - Alternative to saga patterns ?
 - Consistency level in saga patterns ?
 - Explain Authentication & Authorization ? How to achieve it ?
-
 
 </details>
 
