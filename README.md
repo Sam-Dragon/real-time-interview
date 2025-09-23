@@ -36,6 +36,7 @@
 - How to create image using docker ?
 - What are the commands used inside Dockerfile ?
 - Auto-scaling in gcp or kubernetes ?
+- What is bestway to deploy all the services at once ? -- Kubernetes
 - Alternative to saga patterns ?
 - Consistency level in saga patterns ?
 - Explain Authentication & Authorization ? How to achieve it ?
