@@ -50,7 +50,7 @@
 - How kubernetes implements blue / green deployment ?
 - Optimistic vs Pesimisstic Locking ?
 - Give me a scenario where you encountered threading issue and how you fixed it ?
-- service mesh and its implementation ?
+- service mesh and its implementation with example ?
 - Difference between gateway and ingress ?
 
 </details>
