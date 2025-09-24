@@ -41,6 +41,18 @@
 - Consistency level in saga patterns ?
 - Explain Authentication & Authorization ? How to achieve it ?
 
+> Round 3
+- Program to query department based maximum average salary ?
+- Program to order the strings based on the length ?
+- Between two apps, App A uses one of the component of App B as library, It is throwing exception stating bean is not initialized, how to fix it ?
+- How would you rollback transactions in services ?
+- What is blue / green deployment ?
+- How kubernetes implements blue / green deployment ?
+- Optimistic vs Pesimisstic Locking ?
+- Give me a scenario where you encountered threading issue and how you fixed it ?
+- service mesh and its implementation ?
+- Difference between gateway and ingress ?
+
 </details>
 
 <details> 
@@ -74,5 +86,19 @@
 - Debug production issues ? How to address quickly ? Quality vs Quick fix
 - tell all the isolation level for transactions ?
 - which all isolation level will get deadlocks ?
+
+</details>
+
+<details> 
+<summary>Nextiva</summary>
+<br>
+  
+# Nextiva
+- How to manage requests if increase from 10K to 10M ?
+- ordering in kafka partitions ?
+- where do you stored failed records in kafka ? 
+- spring-batch is different from normal scheduler ?
+- Program for removing adjescent duplicate elements in string ? -- Stack + StringBuiler
+- Bus Booking System ?
 
 </details>
