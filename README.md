@@ -52,6 +52,7 @@
 - Give me a scenario where you encountered threading issue and how you fixed it ?
 - service mesh and its implementation with example ?
 - Difference between gateway and ingress ?
+- Explain cqrs pattern ? problems ?
 
 </details>
 
@@ -94,7 +95,7 @@
 <br>
   
 # Nextiva
-- stateful management ? example ?
+- Explain stateful management ? example ?
 - How to manage requests if increase from 10K to 10M ?
 - ordering in kafka partitions ?
 - where do you stored failed records in kafka ? 
