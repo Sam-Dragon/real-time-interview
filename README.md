@@ -94,6 +94,7 @@
 <br>
   
 # Nextiva
+- stateful management ? example ?
 - How to manage requests if increase from 10K to 10M ?
 - ordering in kafka partitions ?
 - where do you stored failed records in kafka ? 
