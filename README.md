@@ -93,8 +93,7 @@
 <details> 
 <summary>Nextiva</summary>
 <br>
-  
-# Nextiva
+
 - Explain stateful management ? example ?
 - How to manage requests if increase from 10K to 10M ?
 - ordering in kafka partitions ?
