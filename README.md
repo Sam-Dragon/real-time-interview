@@ -94,6 +94,7 @@
 <summary>Nextiva</summary>
 <br>
 
+> Round 1
 - Explain stateful management ? example ?
 - How to manage requests if increase from 10K to 10M ?
 - ordering in kafka partitions ?
@@ -103,3 +104,29 @@
 - Bus Booking System ?
 
 </details>
+
+<details> 
+<summary>Best Buy</summary>
+<br>
+
+> Round 2
+- scope of beans and which one to use for parameters
+- rate limiter, where it is used with scenario  
+- microservice issue w.r.t circular dependencies
+- how does spring as framework handles millions of requests
+- when to use service mesh, explain one scenario
+- program from hacker rank site
+
+</details>
+
+<details> 
+<summary>JP Morgan Chase</summary>
+<br>
+
+> Round 1
+- mircoservices patterns
+- how to secure the application, all security ways
+- program for skipping one value and updating another value of map
+
+</details>
+
