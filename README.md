@@ -6,53 +6,68 @@
 
 > Round - 1
 
-- compute engine vs app engine in gcp?
-- docker vs VM ? explain in detail ?
-- docker deamon vs docker client?
-- shallow copy vs deep copy ?
-- how deep copy works in nested objects ?
-- java-8, default and static methods whats the advantage? 
-- executor service framwork, how does it work and benefit?
-- dependency injection ? types ? which is preferred ? 
-- problem with setter based injection ? -- reflection slows down the performance
-- how spring-data jpa is different from jpa and hibernate?  
-- does spring-data jpa uses hibernate internally?
-- how many tables do you need for many to many relationship?
+- GCP
+  - compute engine vs app engine in gcp?
+- Docker
+  - docker vs VM ? explain in detail ?
+  - docker deamon vs docker client?
+- Java
+  - shallow copy vs deep copy ?
+  - how deep copy works in nested objects ?
+  - java-8, default and static methods whats the advantage? 
+  - executor service framework, how does it work and benefit?
+- Spring
+  - dependency injection ? types ? which is preferred ? 
+  - problem with setter based injection ? -- reflection slows down the performance
+  - how spring-data jpa is different from jpa and hibernate?  
+  - does spring-data jpa uses hibernate internally?
+- Database
+  - how many tables do you need for many to many relationship?
 
 > Round - 2
-- Why java-8 is functional programming ?
-- What are Method References ?
-- What is different in terms of memory model in java-17 ? which GC is used ?
-- ** Explain setter based vs constructor based injection, use case with example ?
-- ** In case there are two beans needs to be initialized, A and B, if A is not initialized and B wants to access,
+- Java
+  - Why java-8 is functional programming ?
+  - What are Method References ?
+  - What is different in terms of memory model in java-17 ? which GC is used ?
+- Spring
+  - ** Explain setter based vs constructor based injection, use case with example ?
+  - ** In case there are two beans needs to be initialized, A and B, if A is not initialized and B wants to access,
   How can you initialize Bean A --> SETTER BASED, ANY OTHER WAYS
-- How to create custom endpoint for actuator and how to count exceptions ?
-- How to resolve circular dependencies in spring boot ?
-- Tell me all the Microservices Patterns ?
-- How to implement fault tolerance in mircoservices ?
-- What are non-functional requirements in microservices ?
-- How to secure mircoservices ?
-- How to achieve fault tolerance without using spring-boot ?
-- How to create image using docker ?
-- What are the commands used inside Dockerfile ?
-- Auto-scaling in gcp or kubernetes ?
-- What is bestway to deploy all the services at once ? -- Kubernetes
-- Alternative to saga patterns ?
-- Consistency level in saga patterns ?
-- Explain Authentication & Authorization ? How to achieve it ?
+  - How to create custom endpoint for actuator and how to count exceptions ?
+  - How to resolve circular dependencies in spring boot ?
+  - How to achieve fault tolerance without using spring-boot ?
+  - Alternative to saga patterns ?
+  - Consistency level in saga patterns ?
+  - Explain Authentication & Authorization ? How to achieve it ?
+- Microservices
+  - Tell me all the Microservices Patterns ?
+  - How to implement fault tolerance in mircoservices ?
+  - What are non-functional requirements in microservices ?
+  - How to secure mircoservices ?
+- Docker
+  - How to create image using docker ?
+  - What are the commands used inside Dockerfile ?
+- Kubernets
+  - Auto-scaling in gcp or kubernetes ?
+  - What is bestway to deploy all the services at once ? -- Kubernetes
 
 > Round 3
-- Program to query department based maximum average salary ?
-- Program to order the strings based on the length ?
-- Between two apps, App A uses one of the component of App B as library, It is throwing exception stating bean is not initialized, how to fix it ?
-- How would you rollback transactions in services ?
-- What is blue / green deployment ?
-- How kubernetes implements blue / green deployment ?
-- Optimistic vs Pesimisstic Locking ?
-- Give me a scenario where you encountered threading issue and how you fixed it ?
-- service mesh and its implementation with example ?
-- Difference between gateway and ingress ?
-- Explain cqrs pattern ? problems ?
+- Java
+  - Optimistic vs Pesimisstic Locking ?
+  - Give me a scenario where you encountered threading issue and how you fixed it ?
+- Program
+  - Program to query department based maximum average salary ?
+  - Program to order the strings based on the length ?
+- Spring
+  - Between two apps, App A uses one of the component of App B as library, It is throwing exception stating bean is not initialized, how to fix it ?
+  - How would you rollback transactions in services ?
+- Microservices
+  - What is blue / green deployment ?
+  - service mesh and its implementation with example ?
+  - Difference between gateway and ingress ?
+  - Explain cqrs pattern ? problems ?
+- Kubernets
+  - How kubernetes implements blue / green deployment ?
 
 </details>
 
