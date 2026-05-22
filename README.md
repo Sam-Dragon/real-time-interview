@@ -6,4 +6,8 @@
 - Threads
   - Concurrency Issue
   - DeadLock
-  - Race Conditions  
+  - Race Conditions
+  - Java Memory Model
+- Garbage Collection
+  - Internal Implementation
+  - Types 
